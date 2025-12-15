@@ -95,6 +95,10 @@ hash = "b06a7f30dcd9f9df9d10998274ee6b419c59f2a61a07833aafc2a62b929d3bec"
 metafile = true
 
 [[files]]
+file = "mods/enchiridion-fabric-0.2.0-alpha.1+1.21.10.jar"
+hash = "b518ce67d0a1c3f248a63545db75ed37e90dab5a5fb872c93da66f8ba0ded740"
+
+[[files]]
 file = "mods/enderscape.pw.toml"
 hash = "a993324b76929426c46da31be9e7e3c18dfe016f35712b831014dd707645fecb"
 metafile = true
