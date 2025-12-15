@@ -8,5 +8,7 @@
     "griefless:mobsTrampleFarmland": false,
     "playersSleepingPercentage": 0,
     "keepInventory": true,
-    "doFireTick": false
+    "doFireTick": false,
+    "disableElytraMovementCheck": true,
+    "disablePlayerMovementCheck": true
 }
