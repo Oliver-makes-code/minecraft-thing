@@ -90,6 +90,11 @@ hash = "b06a7f30dcd9f9df9d10998274ee6b419c59f2a61a07833aafc2a62b929d3bec"
 metafile = true
 
 [[files]]
+file = "mods/enderscape.pw.toml"
+hash = "a993324b76929426c46da31be9e7e3c18dfe016f35712b831014dd707645fecb"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
 metafile = true
@@ -135,6 +140,11 @@ hash = "2eee7e963181362354e729c13106723950064729f134cea67d0a313c1c64fae4"
 metafile = true
 
 [[files]]
+file = "mods/landmarks.pw.toml"
+hash = "facc36f391b6873f57181663b43caa99c25265fafc5c46275aed4b99e1fe4628"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
 metafile = true
@@ -147,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "113af68f0f6a6490c66b13bd0f2641ecacbb5320b930cc0bc5574dcc8f070474"
+metafile = true
+
+[[files]]
+file = "mods/menderman.pw.toml"
+hash = "14b8b147a25e81baa7f461527b7bfa8286d10334972714fe2e59da4cdd2c4402"
 metafile = true
 
 [[files]]
@@ -217,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "a1d33464246ce3bf62e92de9c366087632f6cd3cd4f3d0587cc22d15c2ef2faa"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "1e78d593cf4ee1fca22780db53353b59ac36f718efbfb379f99e3cdf010f408c"
 metafile = true
 
 [[files]]

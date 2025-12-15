@@ -1,0 +1,13 @@
+name = "Menderman"
+filename = "menderman-fabric-1.0.0+1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CvuaVG1q/versions/aXsTxGls/menderman-fabric-1.0.0%2B1.21.10.jar"
+hash-format = "sha512"
+hash = "9599fe20695242faac33c2b90c77a8dd076c745ba4a4eadb73319180cd8d3344f7a88fd7e89701ffb7cd1d2ffe710c234c60a21acc3ca02f0824b3cf4ccc22d3"
+
+[update]
+[update.modrinth]
+mod-id = "CvuaVG1q"
+version = "aXsTxGls"
