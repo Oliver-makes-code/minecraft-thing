@@ -5,6 +5,54 @@ file = "config/betterdays-common.toml"
 hash = "b803fd731aa8b534f4846ba80b2307a7a095709ded5a88e64b02c7f9dc722cc6"
 
 [[files]]
+file = "config/carpet/default_carpet.conf"
+hash = "02c810c847b2065dffbb618952095a56caed35c001ecb8ba2db6efa7a649efaa"
+
+[[files]]
+file = "config/ruleconf.json"
+hash = "7351e281946464e1f07d1ff7258a6ca12505d23e52f294c4ec40b5c6655c0034"
+
+[[files]]
+file = "datapacks/VanillaTweaks_c858684_MC1.21-1.21.11.zip"
+hash = "b2c6b02a0ecf0d8f5a0eef22e66aa509c994d180d7041aa386ee1290a4dbfc53"
+
+[[files]]
+file = "datapacks/afk display v1.1.15 (MC 1.21-1.21.11).zip"
+hash = "ad2654f9826e1e86cbc1c9173ad65f697a59d97469163a72ad2a9cef0d00184e"
+
+[[files]]
+file = "datapacks/cauldron concrete v3.0.8 (MC 1.21-1.21.11).zip"
+hash = "50bcd01ee342b19eafafe7abeacf8aa25824eff3eff5700f0b3d1db5bdcf5010"
+
+[[files]]
+file = "datapacks/cauldron mud v1.0.8 (MC 1.21-1.21.11).zip"
+hash = "3179913ad36c368f13ed8d10db63e7582c773fc5f7ac40f2c9477f4197acab36"
+
+[[files]]
+file = "datapacks/ender chest always drops v1.0.7 (MC 1.21-1.21.11).zip"
+hash = "9f4494ff4cbafa3d08b2bf3978ce4b458c66c7c6d695e8ec9c0f10957bbd40fd"
+
+[[files]]
+file = "datapacks/fast leaf decay v2.0.20 (MC 1.21-1.21.11).zip"
+hash = "cfb171363c44fefd06be468256ce82757e40267bd86556484a2f2a201d35f269"
+
+[[files]]
+file = "datapacks/glass always drops v1.0.7 (MC 1.21-1.21.11).zip"
+hash = "984e8f10abe8bf24688d535be789a9460f723343c5469ee6439ca1e70d4fd2a4"
+
+[[files]]
+file = "datapacks/husks drop sand v1.0.8 (MC 1.21-1.21.11).zip"
+hash = "04d5dd7e47916083de770ec500a26df3e40702dcf37e93f4db3b82ad7f8cf181"
+
+[[files]]
+file = "datapacks/more effective tools v1.0.9 (MC 1.21-1.21.11).zip"
+hash = "e7d416f6c92aaeb7303aa36a68e15686358a8a5ba03f9e31c7f8f44cb5e614a7"
+
+[[files]]
+file = "datapacks/unlock all recipes v2.0.16 (MC 1.21-1.21.11).zip"
+hash = "de8ae409b1b0fa48512449bc72ee06388fbbb30098307cd54481e5dd3dd9e96a"
+
+[[files]]
 file = "mods/amplified-nether-height.pw.toml"
 hash = "9fb0bb83d8818d33f326b68c49d7a5d26c3005b8e6893c16bf044e95e3ac59d5"
 metafile = true
@@ -80,6 +128,11 @@ hash = "692f75b5b9528a47f6482009c89020ee9fb70f2d34fe6f8db1be1981016f9d17"
 metafile = true
 
 [[files]]
+file = "mods/datapack-injector.pw.toml"
+hash = "67c1fc85b89261af425055417fe6e85e4981b7d61662fe4f79d50a734e9738da"
+metafile = true
+
+[[files]]
 file = "mods/defaulted.pw.toml"
 hash = "6f1a5a4a200475986ea74a0b5aaf12196d59b88e5cd3b9e1964728a87a945da1"
 metafile = true
@@ -88,6 +141,10 @@ metafile = true
 file = "mods/duely.pw.toml"
 hash = "55e77aa56de360c9bc64030b8455327c615b57907bfd9db1724612b4c25d0b77"
 metafile = true
+
+[[files]]
+file = "mods/durable-1.1+mc.1.21.10.jar"
+hash = "a230700e700bce8ff55c635a17a26d33ffea87b1175f3862c99886760c920931"
 
 [[files]]
 file = "mods/ears.pw.toml"
@@ -104,6 +161,11 @@ hash = "a993324b76929426c46da31be9e7e3c18dfe016f35712b831014dd707645fecb"
 metafile = true
 
 [[files]]
+file = "mods/explorify.pw.toml"
+hash = "d93c3c494955dfc44e2590ded2ee8414d582e87f2fca00575f08576ae2197d57"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
 metafile = true
@@ -111,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "16475920a19745939858440691992a38e7244c712d5e607695f6dca394622c40"
 metafile = true
 
 [[files]]
@@ -227,6 +294,10 @@ metafile = true
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "ad2c2880cd91b5d927f3bfdba657189997cdd6dd30f46ee0d969a68de2bb2ad8"
 metafile = true
+
+[[files]]
+file = "mods/ruleconf-1.1+mc.1.21.10.jar"
+hash = "749e3fa043307305841e6bf10ced1ff97d794300f94b3dc5503998bfec5985fd"
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
