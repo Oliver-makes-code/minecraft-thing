@@ -1,0 +1,13 @@
+name = "FatStack"
+filename = "fatstack-1.1+mc.1.21.10.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/hRKlWfYc/versions/FPXM8Snf/fatstack-1.1%2Bmc.1.21.10.jar"
+hash-format = "sha512"
+hash = "3c28cf2100b56ac9fd6b9bd205e795a0666db8d2668f56f24a6c1c14353425b041fb16bc749a3d39aee715579b3c7a3af868f19311cc573976b4c75cd245b4d7"
+
+[update]
+[update.modrinth]
+mod-id = "hRKlWfYc"
+version = "FPXM8Snf"

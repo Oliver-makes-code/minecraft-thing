@@ -1,0 +1,13 @@
+name = "Duely"
+filename = "duely-1.1+mc.1.21.10.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/CKk9H1tH/versions/k826RnWt/duely-1.1%2Bmc.1.21.10.jar"
+hash-format = "sha512"
+hash = "5e5e73382ee80e610adb6870845d0cf5b83c19164ba60a07ad7a531b7c58e353b6d8cce8422a7314a1a800425c527d38afd8fac6555e2a5d9e3bb76b46e13b35"
+
+[update]
+[update.modrinth]
+mod-id = "CKk9H1tH"
+version = "k826RnWt"

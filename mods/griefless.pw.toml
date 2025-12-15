@@ -1,0 +1,13 @@
+name = "Griefless"
+filename = "griefless-1.1+mc.1.21.10.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/puqNqMZT/versions/carYkZ0L/griefless-1.1%2Bmc.1.21.10.jar"
+hash-format = "sha512"
+hash = "bec37ff64c91ee75521128789cc9f504df24da3268cd67abb01ecb908b1e7d3a3088b0f48a535c1f022055613d0b6fd5203b8dd3005251b675537e4047087c6e"
+
+[update]
+[update.modrinth]
+mod-id = "puqNqMZT"
+version = "carYkZ0L"

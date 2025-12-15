@@ -1,0 +1,13 @@
+name = "Container Tooltips"
+filename = "container-tooltips-1.3.3+1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bec9o8lo/versions/8CtwZLKu/container-tooltips-1.3.3%2B1.21.10.jar"
+hash-format = "sha512"
+hash = "cca688ed8ad01edcf78a0e0c4dcc51475ac3811afc9dceb6c92cdf013e38d10074d67ce82ffa0e9b802ead4755d0c83e94d9ad4d0ea750427cee744a893b0e9c"
+
+[update]
+[update.modrinth]
+mod-id = "bec9o8lo"
+version = "8CtwZLKu"

@@ -1,0 +1,13 @@
+name = "CliffTree"
+filename = "clifftree-3.1.3-1.21.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/59ypHk8x/versions/RORh4Fmj/clifftree-3.1.3-1.21.9.jar"
+hash-format = "sha512"
+hash = "33d024dafb3c7345db9529e54f50dc1e5c969091db98c1536e64a441656332e6a62895b255e184586c632dbeac6c9a28696107184146a63ee40d274c0734c422"
+
+[update]
+[update.modrinth]
+mod-id = "59ypHk8x"
+version = "RORh4Fmj"
