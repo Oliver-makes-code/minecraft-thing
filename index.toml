@@ -25,6 +25,11 @@ hash = "f34fa12fe7701cf0776fef1a1f1e2e3c7227f53302b3d87b7ff307f0446a68d2"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "d2933afa6dcca20f4846bc1977fecc4ed759dc7af53896274dd133242d22693e"
+metafile = true
+
+[[files]]
 file = "mods/betterdays.pw.toml"
 hash = "a4bc3a6e1be82cce37193985a6c84c177e4b37ed4c9b136c2d0ca0bb123ca31c"
 metafile = true
@@ -122,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/harvester-qol.pw.toml"
 hash = "53e1061633e639e6eecc5bb4846cd787b97703bab558ca6bdbb57b758f30e544"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "4ed061d122cb39f34ed730984c7bcf03437250f24a21975203bb4598d7d86a14"
 metafile = true
 
 [[files]]
