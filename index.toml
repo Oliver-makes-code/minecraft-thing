@@ -90,6 +90,10 @@ hash = "55e77aa56de360c9bc64030b8455327c615b57907bfd9db1724612b4c25d0b77"
 metafile = true
 
 [[files]]
+file = "mods/durable-1.1+mc.1.21.10.jar"
+hash = "a230700e700bce8ff55c635a17a26d33ffea87b1175f3862c99886760c920931"
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "b06a7f30dcd9f9df9d10998274ee6b419c59f2a61a07833aafc2a62b929d3bec"
 metafile = true
@@ -107,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "16475920a19745939858440691992a38e7244c712d5e607695f6dca394622c40"
 metafile = true
 
 [[files]]
