@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/landmarks.pw.toml"
-hash = "facc36f391b6873f57181663b43caa99c25265fafc5c46275aed4b99e1fe4628"
+hash = "a5816f95ad37084db68dcbcf038d5d59af8fa46ea87b55d7348a69fca02d5f60"
 metafile = true
 
 [[files]]

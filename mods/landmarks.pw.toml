@@ -1,6 +1,6 @@
 name = "Landmarks"
 filename = "landmarks-fabric-1.2.0-1.21.10.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/UyalrGZC/versions/vvexySOx/landmarks-fabric-1.2.0-1.21.10.jar"
