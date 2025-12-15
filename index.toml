@@ -5,6 +5,10 @@ file = "config/betterdays-common.toml"
 hash = "b803fd731aa8b534f4846ba80b2307a7a095709ded5a88e64b02c7f9dc722cc6"
 
 [[files]]
+file = "config/ruleconf.json"
+hash = "a7235a714a1796df781ca7b9f855a27e9a567eacba6e64c9bf4e72ce987d9b24"
+
+[[files]]
 file = "datapacks/VanillaTweaks_c858684_MC1.21-1.21.11.zip"
 hash = "b2c6b02a0ecf0d8f5a0eef22e66aa509c994d180d7041aa386ee1290a4dbfc53"
 
@@ -149,6 +153,11 @@ hash = "a993324b76929426c46da31be9e7e3c18dfe016f35712b831014dd707645fecb"
 metafile = true
 
 [[files]]
+file = "mods/explorify.pw.toml"
+hash = "d93c3c494955dfc44e2590ded2ee8414d582e87f2fca00575f08576ae2197d57"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
 metafile = true
@@ -277,6 +286,10 @@ metafile = true
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "ad2c2880cd91b5d927f3bfdba657189997cdd6dd30f46ee0d969a68de2bb2ad8"
 metafile = true
+
+[[files]]
+file = "mods/ruleconf-1.1+mc.1.21.10.jar"
+hash = "2937fc27eb176f5e9cdda38da47da736da88a207635d92ae992d175b367c969a"
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
