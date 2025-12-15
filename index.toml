@@ -5,8 +5,12 @@ file = "config/betterdays-common.toml"
 hash = "b803fd731aa8b534f4846ba80b2307a7a095709ded5a88e64b02c7f9dc722cc6"
 
 [[files]]
+file = "config/carpet/default_carpet.conf"
+hash = "02c810c847b2065dffbb618952095a56caed35c001ecb8ba2db6efa7a649efaa"
+
+[[files]]
 file = "config/ruleconf.json"
-hash = "a7235a714a1796df781ca7b9f855a27e9a567eacba6e64c9bf4e72ce987d9b24"
+hash = "7351e281946464e1f07d1ff7258a6ca12505d23e52f294c4ec40b5c6655c0034"
 
 [[files]]
 file = "datapacks/VanillaTweaks_c858684_MC1.21-1.21.11.zip"
