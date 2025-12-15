@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterdays-common.toml"
+hash = "b803fd731aa8b534f4846ba80b2307a7a095709ded5a88e64b02c7f9dc722cc6"
+
+[[files]]
 file = "mods/amplified-nether-height.pw.toml"
 hash = "9fb0bb83d8818d33f326b68c49d7a5d26c3005b8e6893c16bf044e95e3ac59d5"
 metafile = true
