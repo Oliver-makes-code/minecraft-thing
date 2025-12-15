@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/ruleconf-1.1+mc.1.21.10.jar"
-hash = "d2a4b14e2db4131b294d431f378ba602080fdd95df95ea5bdc7e2a03bb30c91b"
+hash = "c5853b6cb2ac4f59af286e6359a07c34ac21c89362197bea7a691cf399f51021"
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
