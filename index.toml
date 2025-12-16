@@ -13,6 +13,10 @@ file = "config/ruleconf.json"
 hash = "7351e281946464e1f07d1ff7258a6ca12505d23e52f294c4ec40b5c6655c0034"
 
 [[files]]
+file = "datapacks/Minecraft Thing Enchiridion Datapack.zip"
+hash = "9190d4b4b2db49328024a8c6ddd20b408b560845f77dd82372808ca2f74072b6"
+
+[[files]]
 file = "datapacks/VanillaTweaks_c858684_MC1.21-1.21.11.zip"
 hash = "b2c6b02a0ecf0d8f5a0eef22e66aa509c994d180d7041aa386ee1290a4dbfc53"
 
@@ -152,6 +156,10 @@ hash = "b06a7f30dcd9f9df9d10998274ee6b419c59f2a61a07833aafc2a62b929d3bec"
 metafile = true
 
 [[files]]
+file = "mods/enchantmentdisabletag-fabric-2.0.0-rc.1+1.21.10.jar"
+hash = "93053edd464e0355c1783c9c8220f7a63abe118a06d00ba8ec48b0c13a02bbca"
+
+[[files]]
 file = "mods/enchiridion-fabric-0.2.0-alpha.4+1.21.10.jar"
 hash = "d8ca9464b58079165891e56e3bfbb52d8269c905219341833b1f49fa033d0c70"
 
@@ -173,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+metafile = true
+
+[[files]]
+file = "mods/facebar.pw.toml"
+hash = "e411d3eaf156c09a380c3d99842201e412174fe2c5c2053b617067fb5e1c9263"
 metafile = true
 
 [[files]]
@@ -298,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/ruleconf-1.1+mc.1.21.10.jar"
 hash = "749e3fa043307305841e6bf10ced1ff97d794300f94b3dc5503998bfec5985fd"
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "a112d883056e0934ca5f7d8718f5a2c5cf9d6d63ecb7e91754ba9dcee7bb799e"
+metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
