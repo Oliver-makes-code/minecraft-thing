@@ -308,6 +308,11 @@ file = "mods/ruleconf-1.1+mc.1.21.10.jar"
 hash = "749e3fa043307305841e6bf10ced1ff97d794300f94b3dc5503998bfec5985fd"
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "a112d883056e0934ca5f7d8718f5a2c5cf9d6d63ecb7e91754ba9dcee7bb799e"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "bb7064282571976ed2bbe266bcf5e525d6d661aeea89649e4d604327973cf92d"
 metafile = true
@@ -335,6 +340,11 @@ metafile = true
 [[files]]
 file = "mods/voxy.pw.toml"
 hash = "bf28e86461c3432453a76380c44dd3c79e5c7a0644c897c3c0d984f711f351ed"
+metafile = true
+
+[[files]]
+file = "mods/worldthreader.pw.toml"
+hash = "3bd2f304cd586e7714d33cc87102c408b10622a6faa64286c65416a20f985701"
 metafile = true
 
 [[files]]
