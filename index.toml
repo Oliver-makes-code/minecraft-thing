@@ -343,11 +343,6 @@ hash = "bf28e86461c3432453a76380c44dd3c79e5c7a0644c897c3c0d984f711f351ed"
 metafile = true
 
 [[files]]
-file = "mods/worldthreader.pw.toml"
-hash = "3bd2f304cd586e7714d33cc87102c408b10622a6faa64286c65416a20f985701"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "e71ac6769675de1d2338a13e116f2aefcc8965ab0bc18b75a53572531c1447dd"
 metafile = true
