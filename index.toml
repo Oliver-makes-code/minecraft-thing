@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/durable-1.1+mc.1.21.10.jar"
-hash = "a230700e700bce8ff55c635a17a26d33ffea87b1175f3862c99886760c920931"
+hash = "9828816aef5e62d8275c13f3c3f2cb7efcb6dda41d000dcde0c2a97f5e52a139"
 
 [[files]]
 file = "mods/ears.pw.toml"
