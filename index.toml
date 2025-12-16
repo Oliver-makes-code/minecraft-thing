@@ -13,6 +13,10 @@ file = "config/ruleconf.json"
 hash = "7351e281946464e1f07d1ff7258a6ca12505d23e52f294c4ec40b5c6655c0034"
 
 [[files]]
+file = "datapacks/Minecraft Thing Enchiridion Datapack.zip"
+hash = "9190d4b4b2db49328024a8c6ddd20b408b560845f77dd82372808ca2f74072b6"
+
+[[files]]
 file = "datapacks/VanillaTweaks_c858684_MC1.21-1.21.11.zip"
 hash = "b2c6b02a0ecf0d8f5a0eef22e66aa509c994d180d7041aa386ee1290a4dbfc53"
 
