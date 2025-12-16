@@ -72,6 +72,11 @@ hash = "c9acd83d4bcac593186d5ae34a8ea206a6366db0428bc8b19546902c7e30f3a6"
 metafile = true
 
 [[files]]
+file = "mods/auroraslanterns.pw.toml"
+hash = "95680d4865b3f79ade9239ec18d33d69b8b65848dbe103813e7618d60d7d3dda"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "f34fa12fe7701cf0776fef1a1f1e2e3c7227f53302b3d87b7ff307f0446a68d2"
 metafile = true
@@ -239,6 +244,11 @@ hash = "a5816f95ad37084db68dcbcf038d5d59af8fa46ea87b55d7348a69fca02d5f60"
 metafile = true
 
 [[files]]
+file = "mods/leashable-players.pw.toml"
+hash = "d42f52f3fa98e7bcd85d5740db0ae2cdae0826f1c94db0d060d9c70584b071eb"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
 metafile = true
@@ -335,6 +345,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "a1d33464246ce3bf62e92de9c366087632f6cd3cd4f3d0587cc22d15c2ef2faa"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "2144403a6875489ffec7c29001ae813d733375837defbccb6a500f07e642ec8f"
 metafile = true
 
 [[files]]
