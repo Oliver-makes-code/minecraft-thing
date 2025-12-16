@@ -156,6 +156,10 @@ hash = "b06a7f30dcd9f9df9d10998274ee6b419c59f2a61a07833aafc2a62b929d3bec"
 metafile = true
 
 [[files]]
+file = "mods/enchantmentdisabletag-fabric-2.0.0-rc.1+1.21.10.jar"
+hash = "93053edd464e0355c1783c9c8220f7a63abe118a06d00ba8ec48b0c13a02bbca"
+
+[[files]]
 file = "mods/enchiridion-fabric-0.2.0-alpha.3+1.21.10.jar"
 hash = "3ace6dbe597231504e3c5764ff837421c566d85e19c38eec7d696571dccd86a7"
 
