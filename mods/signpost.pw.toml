@@ -1,0 +1,13 @@
+name = "Signpost"
+filename = "signpost-fabric-1.21.10-2.03.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/twy9eWkt/versions/2f8Rs2l1/signpost-fabric-1.21.10-2.03.0.jar"
+hash-format = "sha512"
+hash = "fb565e8c103c29b169b640848a70cb610d500633984708cc297ce2f4f35bb85e66136317d4b82c27143acb45d3701812e7f7b686d889ebb0cd0a26874cb133fa"
+
+[update]
+[update.modrinth]
+mod-id = "twy9eWkt"
+version = "2f8Rs2l1"
