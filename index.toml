@@ -333,11 +333,6 @@ hash = "a112d883056e0934ca5f7d8718f5a2c5cf9d6d63ecb7e91754ba9dcee7bb799e"
 metafile = true
 
 [[files]]
-file = "mods/signpost.pw.toml"
-hash = "22cf282dad8866ea5a8874d00dc2e448a328aea7acbab6ec985ef084062c32d2"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "bb7064282571976ed2bbe266bcf5e525d6d661aeea89649e4d604327973cf92d"
 metafile = true
