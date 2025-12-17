@@ -170,8 +170,8 @@ file = "mods/enchantmentdisabletag-fabric-2.0.0-rc.1+1.21.10.jar"
 hash = "93053edd464e0355c1783c9c8220f7a63abe118a06d00ba8ec48b0c13a02bbca"
 
 [[files]]
-file = "mods/enchiridion-fabric-0.2.0-alpha.5+1.21.10.jar"
-hash = "2723ca5248c15f34201dfe707001a3c0d3d73febda02f23724ed9db0f72681db"
+file = "mods/enchiridion-fabric-0.2.0-alpha.6+1.21.10.jar"
+hash = "4c9851b4ed3e52e0db9e44bac2f0386c456c4aaab317add1eeb195dd76688b24"
 
 [[files]]
 file = "mods/enderscape.pw.toml"
