@@ -137,6 +137,11 @@ hash = "692f75b5b9528a47f6482009c89020ee9fb70f2d34fe6f8db1be1981016f9d17"
 metafile = true
 
 [[files]]
+file = "mods/crawl.pw.toml"
+hash = "a8c8ff1d7b3ae13660bb358ab6ff8517e50de438585536a687547945f4a16233"
+metafile = true
+
+[[files]]
 file = "mods/datapack-injector.pw.toml"
 hash = "67c1fc85b89261af425055417fe6e85e4981b7d61662fe4f79d50a734e9738da"
 metafile = true
@@ -221,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/harvester-qol.pw.toml"
 hash = "53e1061633e639e6eecc5bb4846cd787b97703bab558ca6bdbb57b758f30e544"
+metafile = true
+
+[[files]]
+file = "mods/image2map.pw.toml"
+hash = "a5af3e792b9960895303a582f0fd14608ed3e39aae0aafc4a1ffa47a09808188"
 metafile = true
 
 [[files]]
@@ -353,8 +363,18 @@ hash = "a1d33464246ce3bf62e92de9c366087632f6cd3cd4f3d0587cc22d15c2ef2faa"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "b14b41445fb21e4e2fc0c3ec1dd289afead8e75abce76fa6e0c2256585627514"
+metafile = true
+
+[[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "2144403a6875489ffec7c29001ae813d733375837defbccb6a500f07e642ec8f"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "fcc4f588960a66fb5182ea2ce53d9b184d43c1511aa3dfc12af240b74d00812a"
 metafile = true
 
 [[files]]
